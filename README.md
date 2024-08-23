@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/fariaslrc/Ciencia-de-dados-projetos)
 
 ## Sejam todos bem vindos ao meu perfil!
-- Doutorando, Mestre e Bacharel em Ciência da Computação - UFPE
+- Doutorando, Mestre e Bacharel em Ciência da Computação
 - Pesquisador - CAPES
 - Entusiasta de Cientista de Dados
 
