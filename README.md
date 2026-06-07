@@ -6,11 +6,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/fariaslrc/Ciencia-de-dados-projetos)
 
 ## Sejam todos bem vindos ao meu perfil!
-- Doutorando, Mestre e Bacharel em Ciência da Computação
+- Doutor em Ciência da Computação
 - Pesquisador - CAPES
 - Entusiasta de Cientista de Dados
 
-Doutorando, mestre e bacharel em Ciência da Computação, com foco em computação evolucionária, aprendizagem de máquina e inteligência artificial. Atualmente buscando emprego como cientista de dados e desenvolvendo minha pesquisa no doutorado em Ciência da Computação na Universidade Federal de Pernambuco como bolsista CAPES. 
+Doutor, mestre e bacharel em Ciência da Computação, com foco em computação evolucionária, aprendizagem de máquina e inteligência artificial. Atualmente buscando emprego como cientista de dados e desenvolvendo minha pesquisa no doutorado em Ciência da Computação na Universidade Federal de Pernambuco como bolsista CAPES. 
 
 ## Experiência com:
 
