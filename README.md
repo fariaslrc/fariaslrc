@@ -1,47 +1,50 @@
-## [Lucas Farias](https://github.com/fariaslrc/fariaslrc/blob/main/cv-lucas%20-%20english.pdf)
+# Lucas R. C. Farias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fariaslrc/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fariaslrc@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fariaslrc)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/fariaslrc/Ciencia-de-dados-projetos)
+**AI Engineer · Ph.D. in Computer Science · Researcher · Professor**
 
-## Sejam todos bem vindos ao meu perfil!
-- Doutor em Ciência da Computação
-- Pesquisador - CAPES
-- Entusiasta de Cientista de Dados
+I work at the intersection of **artificial intelligence, evolutionary computation, and software engineering**, connecting rigorous research with the development of practical AI systems.
 
-Doutor, mestre e bacharel em Ciência da Computação, com foco em computação evolucionária, aprendizagem de máquina e inteligência artificial. Atualmente buscando emprego como cientista de dados e desenvolvendo minha pesquisa no doutorado em Ciência da Computação na Universidade Federal de Pernambuco como bolsista CAPES. 
+I hold a Ph.D. and an M.Sc. in Computer Science from the **Federal University of Pernambuco (UFPE)** and a B.Sc. in Computer Science from the **Catholic University of Pernambuco (UNICAP)**. I currently work as an **AI Engineer** and teach at **CESAR School**, combining applied research, engineering, and technology education.
 
-## Experiência com:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fariaslrc/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=I08lnEsAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3976-0907)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:fariaslrc@gmail.com)
 
-- Machine Learning: Desenvolvimento de modelos preditivos para classificação, regressão, clusterização e séries temporais
-- Business Intelligence: Construção de dashboards e KPIs;
-- Analytics: Extração, limpeza, análise exploratória e modelagem de dados;
-- Database: Consultas em bancos de dados;
-- Agile Methodology: Scrum.
+## Research and engineering interests
 
-## Ferramentas:
-- Linguagens de programação: Python, Java, Matlab e C/C++
-- Tecnologias e Frameworks: pandas, scikit-learn, numpy, scipy e NLTK
-- Ferramentas de desenvolvimento: Git
-- Relatórios Gráficos: Streamlit e Power BI
-- Modelagem estatística e aprendizado de máquina, metodologia de mineração de dados CRISP-DM
+- **Artificial intelligence and machine learning:** intelligent systems, predictive modeling, and applied AI.
+- **Evolutionary and multiobjective optimization:** decomposition-based algorithms, adaptive strategies, inverse modeling, and topology preservation.
+- **Software engineering:** design and development of reliable, maintainable AI-enabled systems.
+- **AI for social impact:** assistive technology, inclusive education, and accessible software.
 
-## Repositório com meus projetos em Ciência de Dados:
+## Selected research
 
-[Projetos de ciência de dados](https://github.com/fariaslrc/Ciencia-de-dados-projetos)
+My doctoral research investigated **topology-preserving inverse modeling in multiobjective evolutionary optimization**. My broader publication record includes work on decomposition-based evolutionary algorithms, adaptive weights, surrogate-assisted optimization, and applied machine learning.
 
-<!--
-**fariaslrc/fariaslrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selected publications:
 
-Here are some ideas to get you started:
+- **A Decomposition-Based Many-Objective Evolutionary Algorithm Updating Weights When Required.** *Swarm and Evolutionary Computation*, 2022.
+- **IM-MOEA/D: An Inverse Modeling Multi-Objective Evolutionary Algorithm Based on Decomposition.** *IEEE International Conference on Systems, Man, and Cybernetics*, 2021.
+- **An Inverse Modeling Constrained Multi-Objective Evolutionary Algorithm Based on Decomposition.** *IEEE International Conference on Systems, Man, and Cybernetics*, 2024.
+- **Self-Organizing Surrogate-Assisted Non-Dominated Sorting Differential Evolution.** *Swarm and Evolutionary Computation*, 2024 (co-author).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full publication record:** [Google Scholar](https://scholar.google.com/citations?user=I08lnEsAAAAJ) · [Lattes CV](http://lattes.cnpq.br/1167531021165184)
+
+## Teaching and academic contributions
+
+At **CESAR School**, I teach and mentor students in software engineering, programming, and project-based technology education. My teaching has been recognized through **Outstanding Lecturer distinctions** in 2024.2, 2025.2, and 2026.1. I also received an **Academic Laureate** distinction during my undergraduate studies at UNICAP.
+
+## Technical background
+
+**Core areas:** AI/ML · Evolutionary Optimization · Data Science · Software Engineering · Applied Research
+
+**Programming and scientific computing:** Python · C/C++ · Java · MATLAB · NumPy · pandas · SciPy · scikit-learn
+
+**Development and analytics:** Git · Streamlit · Power BI
+
+## Connect
+
+I welcome conversations about **research collaborations, applied AI, evolutionary optimization, and technology education**.
+
+[LinkedIn](https://www.linkedin.com/in/fariaslrc/) · [Email](mailto:fariaslrc@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=I08lnEsAAAAJ) · [Lattes](http://lattes.cnpq.br/1167531021165184)
